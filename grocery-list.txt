@@ -2,5 +2,7 @@ milk
 eggs 
 rice 
 chicken
+Orange Juice
+Coffee
 
 
